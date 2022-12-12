@@ -26,7 +26,7 @@ At the time of writing this document, SCANOSS Agent source code is waiting to be
 
         # git checkout scanoss-qg/2166/scanoss-agent
 
-3 - Follow instructions for installing FOSSOlogy from source ([https://github.com/fossology/fossology/wiki/Install-from-Sourcehttps://github.com/fossology/fossology/wiki/Install-from-Source](https://github.com/fossology/fossology/wiki/Install-from-Sourcehttps://github.com/fossology/fossology/wiki/Install-from-Source)) 
+3 - Follow instructions for installing FOSSOlogy from source ([here](https://github.com/fossology/fossology/wiki/Install-from-Sourcehttps://github.com/fossology/fossology/wiki/Install-from-Source)) 
 
 
 
