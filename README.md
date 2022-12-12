@@ -1,5 +1,5 @@
 ![enter image description here](wires.png)
-# SCANOSS Agent for FOSSOlogy 
+# SCANOSS Agent for FOSSology 
 ### Background
 This is a temporary repository only useful until the SCANOSS Agent contribution is merged into FOSSology.
 Active Pull request can be found [here](https://github.com/fossology/fossology/pull/2167) 
@@ -8,7 +8,7 @@ Active Pull request can be found [here](https://github.com/fossology/fossology/p
 <h3>Introduction</h3>
 
 
-This document describes the steps followed to deploy the FOOSOlogy toolkit version that includes a SCANOSS Agent tool. The SCANOSS Agent provides with: 
+This document describes the steps followed to deploy the FOOSology toolkit version that includes a SCANOSS Agent tool. The SCANOSS Agent provides with: 
 
 
 
@@ -17,7 +17,7 @@ This document describes the steps followed to deploy the FOOSOlogy toolkit versi
 * Snippet Matching feature
 * Source and path location of the original code
 
-At the time of writing this document, SCANOSS Agent source code is waiting to be merged to FOSSOlogy main branch so instructions to deploy from an alternative repository fork are provided.
+At the time of writing this document, SCANOSS Agent source code is waiting to be merged to FOSSology main branch so instructions to deploy from an alternative repository fork are provided.
 
 <h3>Instructions</h3>
 
@@ -28,7 +28,7 @@ At the time of writing this document, SCANOSS Agent source code is waiting to be
 
         # git checkout scanoss-qg/2166/scanoss-agent
 
-3 - Follow instructions for installing FOSSOlogy from source ([here](https://github.com/fossology/fossology/wiki/Install-from-Sourcehttps://github.com/fossology/fossology/wiki/Install-from-Source)) 
+3 - Follow instructions for installing FOSSology from source ([here](https://github.com/fossology/fossology/wiki/Install-from-Sourcehttps://github.com/fossology/fossology/wiki/Install-from-Source)) 
 
 
 
@@ -54,11 +54,11 @@ At the time of writing this document, SCANOSS Agent source code is waiting to be
 
 
 
-* From Fossology main menu, select **_upload a file_**. FOSSOOlogy accepts and unzip compressed files automátically
+* From Fossology main menu, select **_upload a file_**. FOSSology accepts and unzip compressed files automatically
 * From the list of tools, Check **_SCANOSS Toolkit option_**
 * Wait for the scan to be finished
 
-Each file is fingerprinted and sent to osskb.org server. Only fingerprints are sent, so your code keeps CONFIDENTIAL.
+This agent fingerprints all the files related to the upload and query information about each file on osskb.org server. Only fingerprints are sent, so your code keeps CONFIDENTIAL.
 
 Results from license information are stored on FOOSOlogy DB tables. However, the agent places information about snippets or file matching on its own tables.
 
