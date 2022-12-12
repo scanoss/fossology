@@ -1,3 +1,4 @@
+![enter image description here](wires.png)
 # SCANOSS Agent for FOSSOlogy 
 ## This is a temporary repository until SCANOSS Agent gets finally merged to FOSSOlogy master branch
 
