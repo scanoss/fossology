@@ -1,6 +1,7 @@
 ![enter image description here](wires.png)
 # SCANOSS Agent for FOSSOlogy 
-## This is a temporary repository until SCANOSS Agent gets finally merged to FOSSOlogy master branch
+### Background
+This is a temporary repository only useful until the SCANOSS Agent contribution is merged into FOSSology
 
 
 <h3>Introduction</h3>
