@@ -60,7 +60,7 @@ At the time of writing this document, SCANOSS Agent source code is waiting to be
 
 This agent fingerprints all the files related to the upload and query information about each file on osskb.org server. Only fingerprints are sent, so your code keeps CONFIDENTIAL.
 
-Results from license information are stored on FOOSOlogy DB tables. However, the agent places information about snippets or file matching on its own tables.
+Results from license information are stored on FOOSology DB tables. However, the agent places information about snippets or file matching on its own tables.
 
 To view File information from a scanned file, just click on the **_info_** tab. You will be presented with:
 
