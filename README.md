@@ -58,7 +58,7 @@ At the time of writing this document, SCANOSS Agent source code is waiting to be
 * From the list of tools, Check **_SCANOSS Toolkit option_**
 * Wait for the scan to be finished
 
-This agent fingerprints all the files related to the upload and query information about each file on osskb.org server. Only fingerprints are sent, so your code keeps CONFIDENTIAL.
+This agent calculates fingerprints from the source code analyzed and submits them to the OSSKB.org API to compare with the database of known Open Source. Only fingerprints are sent, so your code keeps CONFIDENTIAL.
 
 Results from license information are stored on FOOSology DB tables. However, the agent places information about snippets or file matching on its own tables.
 
