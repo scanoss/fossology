@@ -1,7 +1,8 @@
 ![enter image description here](wires.png)
 # SCANOSS Agent for FOSSOlogy 
 ### Background
-This is a temporary repository only useful until the SCANOSS Agent contribution is merged into FOSSology
+This is a temporary repository only useful until the SCANOSS Agent contribution is merged into FOSSology.
+Active Pull request can be found [here](https://github.com/fossology/fossology/pull/2167) 
 
 
 <h3>Introduction</h3>
